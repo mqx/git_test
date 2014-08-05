@@ -1,4 +1,0 @@
-This is the test file
-Add the second line.
-Add the third line.
-Add the fourth line.
